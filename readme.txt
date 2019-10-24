@@ -7,3 +7,4 @@ Creating a new branch is quick AND simple.
 Creating a new branch dev.
 Git is free software...
 add commit
+add author
